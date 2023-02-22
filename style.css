@@ -23,34 +23,65 @@ body{
     list-style-type: none;
 }
 .main_main{
-    display: flex;
-    justify-content: center;
-    justify-items: center;
+    padding-left: 40%;    
+    margin-top: 30%;
 }
 .your_name{
     background-color: transparent;
     color: bisque;
+    margin-left: 13%;
 }
 .input_name{
-    position: absolute;
-    bottom: 35%;
     color: bisque;
     background-color: transparent;
-
 }
+
 .input_pass{
     color: bisque;
     background-color: transparent;
-    position: absolute;
-    bottom: 30%;
-    left: 810px;
 }
 .password{
     background-color: transparent;
     color: bisque;
+    margin-left: 10%;
 }
-.button_log:hover{
-    width: 100px; height: 35px;
+.button_log{
+    width: 100px;
+    height: 35px;
     background-color: rgb(237,202,159);
     border-radius: 15px;
+}
+.button_log:hover{
+    background-color:orange ;
+    cursor: pointer;
+}
+.header_link_main{
+    margin: 40px 50px 0 0;
+    color: bisque;
+}
+.navigation{
+    width: 500px;
+}
+.link_Most_Wanted{
+    margin: 40px 50px 0 0;
+}
+.link_about{
+    margin: 40px 50px 0 0;
+}
+.link_Contats{
+    margin: 40px 50px 0 0;
+}
+.button_log{
+    margin-left: 100px;
+    margin-top: -10px;
+}
+.header_link_main_a:hover, .header_link_most_wanted:hover, .header_link_about:hover, .header_link_contacs:hover{
+    color: blanchedalmond;
+}
+.header_link_main_a, .header_link_most_wanted, .header_link_about, .header_link_contacs{
+    color: white;
+    text-decoration: none;
+}
+.header_link_main{
+    text-decoration: underline;
 }
