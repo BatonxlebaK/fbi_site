@@ -1,1 +1,49 @@
 /*comment*/
+*{
+    margin: 0;
+}
+.navigation{
+    width: 500px;
+}
+.link_Most_Wanted{
+    margin: 40px 50px 0 0;
+}
+.link_about{
+    margin: 40px 50px 0 0;
+}
+.link_Contats{
+    margin: 40px 50px 0 0;
+}
+.header_link_main{
+    margin: 40px 50px 0 0;
+    color: bisque;
+}
+.header_link_main_a:hover, .header_link_most_wanted:hover, .header_link_about:hover, .header_link_contacs:hover{
+    color: blanchedalmond;
+}
+.header_link_main_a, .header_link_most_wanted, .header_link_about, .header_link_contacs{
+    color: white;
+    text-decoration: none;
+}
+.header_link_about{
+    text-decoration: underline;
+}
+.logo_main_header{
+    width: 100px;
+    height: 100px;
+}
+.site_navigation{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.header_main{
+    height: 100px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: bisque;
+}
