@@ -5,18 +5,8 @@
 .navigation{
     width: 500px;
 }
-.link_Most_Wanted{
+.link_Most_Wanted,.link_about,.link_Contats,.header_link_main,.header_link_main{
     margin: 40px 50px 0 0;
-}
-.link_about{
-    margin: 40px 50px 0 0;
-}
-.link_Contats{
-    margin: 40px 50px 0 0;
-}
-.header_link_main{
-    margin: 40px 50px 0 0;
-    color: bisque;
 }
 .header_link_main_a:hover, .header_link_most_wanted:hover, .header_link_about:hover, .header_link_contacs:hover{
     color: blanchedalmond;
@@ -46,4 +36,40 @@
 }
 body{
     background-color: bisque;
+}
+.zagalovok_about{
+    text-align: center;
+    margin-top: 10px;
+}
+.more_about_us_text{
+    text-align: center;
+}
+.img_block{
+    margin: 20px 0 20px 300px;
+}
+.img_about{
+    margin: 20px;
+}
+.p_what_we{
+    margin-left: 5px;
+}
+.h2_what_we{
+    margin-left: 5px;
+    color: blue;
+}
+.How_We_Investigate_img_blcok{
+    color: blue;
+    margin-left: 550px;
+    margin-top: -100px;
+}
+.img_blcok_p{
+    margin-left: 500px;
+}
+.History_h2_img{
+    color: blue;
+    margin-left: 1050px;
+    margin-top: -100px;
+}
+.History_img_block_p{
+    margin-left: 900px;
 }

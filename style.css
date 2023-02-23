@@ -56,19 +56,12 @@ body{
     cursor: pointer;
 }
 .header_link_main{
-    margin: 40px 50px 0 0;
     color: bisque;
 }
 .navigation{
     width: 500px;
 }
-.link_Most_Wanted{
-    margin: 40px 50px 0 0;
-}
-.link_about{
-    margin: 40px 50px 0 0;
-}
-.link_Contats{
+.link_Most_Wanted,.link_about,.link_Contats,.header_link_main,.header_link_main{
     margin: 40px 50px 0 0;
 }
 .button_log{

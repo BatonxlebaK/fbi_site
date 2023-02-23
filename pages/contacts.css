@@ -5,18 +5,8 @@
 .navigation{
     width: 500px;
 }
-.link_Most_Wanted{
+.link_Most_Wanted,.link_about,.link_Contats,.header_link_main,.header_link_main{
     margin: 40px 50px 0 0;
-}
-.link_about{
-    margin: 40px 50px 0 0;
-}
-.link_Contats{
-    margin: 40px 50px 0 0;
-}
-.header_link_main{
-    margin: 40px 50px 0 0;
-    color: bisque;
 }
 .header_link_main_a:hover, .header_link_most_wanted:hover, .header_link_about:hover, .header_link_contacs:hover{
     color: blanchedalmond;
