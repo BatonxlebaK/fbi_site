@@ -37,3 +37,32 @@
 body{
     background-color: bisque;
 }
+.about_footer{
+    height: 100px;
+    background-color: #6c6d6f;
+}
+.link_footer_img{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+.social_medias{
+    display: flex;
+    justify-content: end;
+    margin-top: -90px;   
+}
+.link_footer:hover{
+    transform: scale(1.5);
+}
+.zagalovok_main{
+    text-align: center;
+}
+.input_main_about{
+    background-color: #f0baa6;
+}    
+.send_contacts{
+    text-align: center;
+}
+.checkbox{
+    margin-left: auto;
+}

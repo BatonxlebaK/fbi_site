@@ -42,7 +42,7 @@ body{
     margin-top: 10px;
 }
 .more_about_us_text{
-    text-align: center;
+    margin-left: 450px;
 }
 .img_block{
     margin: 20px 0 20px 300px;
@@ -72,4 +72,21 @@ body{
 }
 .History_img_block_p{
     margin-left: 900px;
+}
+.about_footer{
+    height: 100px;
+    background-color: #6c6d6f;
+}
+.link_footer_img{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+.social_medias{
+    display: flex;
+    justify-content: end;
+    margin-top: -90px;   
+}
+.link_footer:hover{
+    transform: scale(1.5);
 }
