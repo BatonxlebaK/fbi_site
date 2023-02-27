@@ -70,11 +70,13 @@ body{
 }
 .header_link_main_a:hover, .header_link_most_wanted:hover, .header_link_about:hover, .header_link_contacs:hover{
     color: blanchedalmond;
+    text-decoration: underline;
 }
 .header_link_main_a, .header_link_most_wanted, .header_link_about, .header_link_contacs{
     color: white;
     text-decoration: none;
 }
-.header_link_main{
+.header_link_main_a{
+    color: blanchedalmond;
     text-decoration: underline;
 }

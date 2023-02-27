@@ -90,3 +90,7 @@ body{
 .link_footer:hover{
     transform: scale(1.5);
 }
+.header_link_about{
+    color: blanchedalmond;
+    text-decoration: underline;
+}

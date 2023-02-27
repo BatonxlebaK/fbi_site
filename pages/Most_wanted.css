@@ -42,15 +42,30 @@ body{
     color: antiquewhite;
     text-align: center;
 }
-.img_most_wanted{
+.wrapper_img{
     width: 300px;
     height: 250px;
     border: solid black 1px;
     margin: 10px;
+    height: 100%;
 }
-.img_most_wanted:hover{
+.wrapper_img:hover{
     cursor: pointer;
     transform: scale(1.5);
     background-color: blueviolet;
 }
-
+.img_most_wanted{
+    width: 300px;
+}
+.paragraph_pic_most_wanted{
+    color:brown
+}
+.img_block{
+    flex-wrap: wrap;
+    display: flex;
+    margin-left: 80px;
+}
+.header_link_most_wanted{
+    color: blanchedalmond;
+    text-decoration: underline;
+}

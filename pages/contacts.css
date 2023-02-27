@@ -66,3 +66,33 @@ body{
 .checkbox{
     margin-left: auto;
 }
+.header_link_contacs{
+    color: blanchedalmond;
+    text-decoration: underline;
+}
+.select_country{
+    margin-left: 46%;
+}
+.country_label{
+    margin-left: 47%;
+}
+.buttun_submit_fbi_agent{
+    width: 100px;
+    height: 35px;
+    color: black;
+    border-radius: 30px;
+    background-color: #f2a74f;
+    margin-left: 45%;
+}
+.buttun_submit_fbi_agent:hover{
+    background-color: rgb(220,126,11);
+}
+.social_medias_link{
+    width: 100px;
+    height: 100px;
+}
+.fieldset_hard_choose{
+    min-width: 200px;
+    max-width: 200px;
+    margin-left: 560px;
+}
