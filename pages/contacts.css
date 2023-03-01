@@ -40,6 +40,7 @@ body{
 .about_footer{
     height: 100px;
     background-color: #6c6d6f;
+    margin-top: 72px;
 }
 .link_footer_img{
     width: 50px;
@@ -95,8 +96,9 @@ body{
 .fieldset_hard_choose{
     min-width: 250px;
     max-width: 250px;
-    margin-left: 820px;
+    margin-left: 43%;
 }
+/*я не смог сделать подругому. но вроде стало лучше*/
 .social_medias_link{
     width: 100px;
     height: 100px;
@@ -110,6 +112,7 @@ body{
     border-radius: 200px;
     padding-left: 500px;
     margin-right: 500px;
+    margin-top: 50px;
 }
 .social_medias_link:hover{
     transform: scale(1.5);

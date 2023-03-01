@@ -41,9 +41,6 @@ body{
     text-align: center;
     margin-top: 10px;
 }
-.more_about_us_text{
-    margin-left: 450px;
-}
 .about_footer{
     height: 100px;
     background-color: #6c6d6f;
@@ -68,6 +65,14 @@ body{
 .img_block{
     display: flex;
     justify-content: space-between;
-    margin-left: 250px;
-    margin-right: 250px;
+}
+.paragraph{
+    color: blue;
+}
+.forma_texta{
+    width: 250px;
+}
+main{
+    width: 800px;
+    margin: 0 auto;
 }
