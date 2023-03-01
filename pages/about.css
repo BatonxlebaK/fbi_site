@@ -71,8 +71,17 @@ body{
 }
 .forma_texta{
     width: 250px;
+    margin-left: -150px;
+    margin-right: 350px;
+    margin-top: 50px;
 }
 main{
     width: 800px;
     margin: 0 auto;
+}
+.wrapper{
+    display: flex;
+}
+footer{
+    margin-top: 25px;
 }
