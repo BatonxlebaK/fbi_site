@@ -71,8 +71,6 @@ body{
 }
 .forma_texta{
     width: 250px;
-    margin-left: -150px;
-    margin-right: 350px;
     margin-top: 50px;
 }
 main{
@@ -81,7 +79,11 @@ main{
 }
 .wrapper{
     display: flex;
+    justify-content: space-between;
 }
 footer{
     margin-top: 25px;
+}
+.forma_texta_img{
+    width: 100%;
 }
